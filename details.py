@@ -80,6 +80,7 @@ class Loginmethods(Resource):
         return jsonify({'response':'success'})
 
     def post(self):
+        return jsonify({"lovely"})
         
 
 
