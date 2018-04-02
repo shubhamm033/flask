@@ -25,6 +25,7 @@ OS junk files
 *.sdf
 *.pyc
 *.xml
+*.vscode
 ipch/
 obj/
 [Bb]in
